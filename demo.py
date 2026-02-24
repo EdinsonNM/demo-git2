@@ -1,1 +1,6 @@
-print("dasd mundo!")
+print("hola mundo!")
+print("aprendiendo a programar en python")
+print("Hoy estamos aprendiendo a usar Git")
+print("aprendi a crear un repositorio usando git init")
+print("aprendi a agregar archivos al repositorio usando git add")
+print("aprendi a hacer commit usando git commit")
