@@ -1,11 +1,16 @@
-def sumar(a,b):
-    return a + b
-
 def multiplicar(a,b):
     return a * b
 
-suma = sumar(3, 9)
-print("La suma es:", suma)
+
+def dividir(a,b):
+    if b != 0:
+        return a / b
+    else:
+        return "No se puede dividir por cero"
+
 
 multiplicacion = multiplicar(3, 8)
 print("La multiplicacion es:", multiplicacion)
+
+division = dividir(10, 2)
+print("La division es:", division)
