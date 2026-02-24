@@ -1,11 +1,11 @@
 def sumar(a,b):
     return a + b
 
-def resta(a,b):
-    return a - b
+def multiplicar(a,b):
+    return a * b
 
-suma = sumar(3, 5)
+suma = sumar(3, 9)
 print("La suma es:", suma)
 
-resta = resta(5, 3)
-print("La resta es:", resta)
+multiplicacion = multiplicar(3, 8)
+print("La multiplicacion es:", multiplicacion)
